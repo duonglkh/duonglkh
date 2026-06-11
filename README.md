@@ -59,7 +59,7 @@ Một bộ 13 repo cá nhân — base layer + tooling cho Android dev hiện đ�
       <img height="160" src="https://github-readme-stats.vercel.app/api?username=duonglkh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
     </td>
     <td>
-      <img height="160" src="https://github-readme-streak-stats.vercel.app/?user=duonglkh&theme=tokyonight&hide_border=true" />
+      <img height="160" src="https://streak-stats.demolab.com/?user=duonglkh&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
